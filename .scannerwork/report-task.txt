@@ -1,0 +1,7 @@
+organization=danielbaker
+projectKey=danielbaker_celigo-cli
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.57664
+dashboardUrl=https://sonarcloud.io/dashboard?id=danielbaker_celigo-cli
+ceTaskId=AZMj-nACw62Z-ErZjq64
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZMj-nACw62Z-ErZjq64
